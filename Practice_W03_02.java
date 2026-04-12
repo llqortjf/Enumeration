@@ -1,5 +1,4 @@
-//응용화학전공, 20220700, 이연주
-
+
 import java.util.Scanner;
 
 public class Practice_W03_02 {
